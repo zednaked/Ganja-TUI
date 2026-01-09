@@ -1,7 +1,13 @@
+
 [package]
 name = "ganjatui"
 version = "0.1.0"
 edition = "2021"
+description = "A blazingly fast terminal cannabis growing simulator"
+repository = "https://github.com/zednaked/Ganja-TUI"
+license = "MIT"
+keywords = ["tui", "game", "simulation", "ratatui"]
+categories = ["games", "command-line-utilities"]
 
 [dependencies]
 ratatui = "0.30.0"

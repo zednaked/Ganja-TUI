@@ -1,7 +1,0 @@
-/home/zed/dev/Ganja-TUI/target/debug/deps/iana_time_zone-db9043e5f7792e43.d: /home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/lib.rs /home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/ffi_utils.rs /home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/tz_linux.rs
-
-/home/zed/dev/Ganja-TUI/target/debug/deps/libiana_time_zone-db9043e5f7792e43.rmeta: /home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/lib.rs /home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/ffi_utils.rs /home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/tz_linux.rs
-
-/home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/lib.rs:
-/home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/ffi_utils.rs:
-/home/zed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.64/src/tz_linux.rs:
